@@ -35,6 +35,8 @@ body {
 
 .joke {
     font-size: xx-large;
+    width: 80%;
+    text-align: center;
 }
 
 .btn {
